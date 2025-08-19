@@ -1,0 +1,62 @@
+[01/06/2025 13:25:58] | ID: 0 | Nome:  | Ação: Cadastro do usuário de ID: 87
+[01/06/2025 13:26:13] | ID: 87 | Nome: Luisa Oliveira | Ação: Login realizado com sucesso
+[01/06/2025 13:26:18] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de hospitais
+[01/06/2025 13:26:47] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do hospital de ID: 9
+[01/06/2025 13:26:49] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de hospitais
+[01/06/2025 13:27:04] | ID: 87 | Nome: Luisa Oliveira | Ação: Atualização do hospital de ID: 9
+[01/06/2025 13:27:05] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de hospitais
+[01/06/2025 13:27:13] | ID: 87 | Nome: Luisa Oliveira | Ação: Exclusão do hospital de ID: 9
+[01/06/2025 13:27:15] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de hospitais
+[01/06/2025 13:27:18] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de usuários
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 88
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 89
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 90
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 91
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 92
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 93
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 94
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 95
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 96
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 97
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 98
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 99
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 100
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 101
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 102
+[01/06/2025 13:27:40] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de usuários
+[01/06/2025 13:27:48] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de doações
+[01/06/2025 13:28:20] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro da doação de ID: 7
+[01/06/2025 13:28:21] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de doações
+[01/06/2025 13:28:49] | ID: 87 | Nome: Luisa Oliveira | Ação: Exclusão da doação de ID: 7
+[01/06/2025 13:28:50] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de doações
+[01/06/2025 13:28:54] | ID: 87 | Nome: Luisa Oliveira | Ação: Verificação da lista de agendamentos
+[01/06/2025 13:29:14] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de solicitações
+[01/06/2025 13:29:29] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de usuários
+[01/06/2025 13:29:29] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de doações
+[01/06/2025 13:39:32] | ID: 0 | Nome: Desconhecido | Ação: Tentativa de login falhou para o email: luisaoliveira@gmail,com
+[01/06/2025 13:39:34] | ID: 0 | Nome: Desconhecido | Ação: Tentativa de login falhou para o email: luisaoliveira@gmail,com
+[01/06/2025 13:39:55] | ID: 87 | Nome: Luisa Oliveira | Ação: Login realizado com sucesso
+[01/06/2025 13:40:13] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de usuários
+[01/06/2025 13:40:29] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 103
+[01/06/2025 13:40:29] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 104
+[01/06/2025 13:40:29] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 105
+[01/06/2025 13:40:29] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 106
+[01/06/2025 13:40:29] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 107
+[01/06/2025 13:40:29] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 108
+[01/06/2025 13:40:29] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 109
+[01/06/2025 13:40:29] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 110
+[01/06/2025 13:40:30] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 111
+[01/06/2025 13:40:30] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 112
+[01/06/2025 13:40:30] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 113
+[01/06/2025 13:40:30] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 114
+[01/06/2025 13:40:30] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 115
+[01/06/2025 13:40:30] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 116
+[01/06/2025 13:40:30] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro do usuário de ID: 117
+[01/06/2025 13:40:30] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de usuários
+[01/06/2025 13:40:45] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de doações
+[01/06/2025 13:41:14] | ID: 87 | Nome: Luisa Oliveira | Ação: Cadastro da doação de ID: 8
+[01/06/2025 13:41:16] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de doações
+[01/06/2025 13:41:43] | ID: 87 | Nome: Luisa Oliveira | Ação: Verificação da lista de agendamentos
+[01/06/2025 13:42:02] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de solicitações
+[01/06/2025 13:42:20] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de usuários
+[01/06/2025 13:42:20] | ID: 87 | Nome: Luisa Oliveira | Ação: Consulta da lista de doações
